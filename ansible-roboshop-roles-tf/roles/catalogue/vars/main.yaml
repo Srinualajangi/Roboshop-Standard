@@ -1,6 +1,0 @@
-app_version: "1.0.0"
-nexus_url: http://172.31.86.20:8081/repository
-group_id: "com/roboshop"
-nexus_username: admin
-nexus_password: admin123
-env: dev
